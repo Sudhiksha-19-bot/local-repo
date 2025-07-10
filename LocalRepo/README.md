@@ -1,1 +1,1 @@
-# This is Local repogit 
+# This is Local repositry
